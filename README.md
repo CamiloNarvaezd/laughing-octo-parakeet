@@ -13,3 +13,6 @@ elif (velocidad_resultado > velocidad_max and velocidad_resultado < velocidad_ma
     print("NUEVO RECORD") 
 else:
     print("ENTREVISTA")
+    
+    
+    
